@@ -4,4 +4,4 @@ Movie-Trailer-Website is a project for the Udacity Full Stack Web Developer Nano
 ### Install
 `$ npm install Movie-Trailer-Website`
 ### Start
-`$ npm start entertainment_center.py
+`$ npm start entertainment_center.py`
